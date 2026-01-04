@@ -1,4 +1,4 @@
-# email_spam_detection
+
 # Email Spam Detection System
 
 A machine learning-based system for detecting **spam** emails using Python and scikit-learn. This project applies natural language processing (NLP) techniques and classification algorithms to automatically identify spam messages, improving email security and efficiency.
